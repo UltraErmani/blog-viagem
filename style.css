@@ -1,0 +1,8 @@
+figcaption img{
+    width: 50%;
+}
+
+body{
+    background: rgb(25,175,103);
+background: linear-gradient(90deg, rgba(25,175,103,1) 0%, rgba(69,251,129,1) 27%, rgba(20,223,218,1) 72%, rgba(0,14,255,1) 100%);
+}
